@@ -527,9 +527,9 @@ background-color: orange;
     padding-bottom: 15px;
     margin-left: 30px;
     font-size: 1.618rem;
-    background-color: #55508C;
+    background-color: #68639F;
     box-shadow: none;
-    border: 3px solid #55508C;
+    border: 3px solid #68639F;
     transition: transform 0.25s;
 }
 
@@ -1212,9 +1212,9 @@ background-color: orange;
   /*margin-left: 30px;*/
   font-size: 1.618rem;
   /*background-color: #161617;*/
-  background-color: #55508C;
+  background-color: #A9A2F6;
   box-shadow: none;
-  border: 3px solid #55508C;
+  border: 3px solid #A9A2F6;
   transition: transform 0.25s;
 }
 
@@ -1231,9 +1231,9 @@ background-color: orange;
   padding-top: 15px;
   padding-bottom: 15px;
   font-size: 1.618rem;
-  background-color: #55508C;
+  background-color: #68639F;
   box-shadow: none;
-  border: 3px solid #55508C;
+  border: 3px solid #68639F;
   transition: transform 0.25s;
 }
 
