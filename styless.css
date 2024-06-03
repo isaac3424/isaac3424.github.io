@@ -637,8 +637,8 @@ color: rgba(255, 255, 255, 0.8);
 #sub_subtitle{
   padding-top: 10px;
   font-size: 2.618rem;
-  color: #d5e82a;
-  /*color: rgba(213, 232, 42, 0.75);*/
+  /*color: #d5e82a;*/
+  color: rgba(213, 232, 42, 0.85);
   }
 
 .big-buttons{
