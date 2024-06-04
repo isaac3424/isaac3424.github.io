@@ -526,7 +526,7 @@ p {
   /*display: flex;
   justify-content:space-between;*/
   /*background-color: orange;*/
-  text-align: left;
+  text-align: center;
 }
 
 .subtitle_div {
@@ -609,10 +609,11 @@ p {
 
 #my-name{
     font-size: 6.854rem; 
+    color: #fefefe;
 }
 
 #title2{
-  font-size: 6.854rem; 
+  font-size: 4.236rem; 
   color: #fefefe;
 }
 
@@ -1339,14 +1340,16 @@ background-color: orange;
 }
 
 #my-name{
-  font-size: 6.854rem; 
+  /*font-size: 6.854rem;*/
+  font-size: 4.236rem;
   padding-left: 32px;
   padding-right: 32px;
 }
 
 #profession{
 padding-top: 8px;
-font-size: 4.236rem;
+/*font-size: 4.236rem;*/
+font-size: 2.618rem;
 color: #A9A2F6;
 padding-left: 32px;
 padding-right: 32px;
