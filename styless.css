@@ -876,8 +876,12 @@ color: #fefefe;
 .newone-spec {
   /*text-align: left;*/
   /*background-color: #68639F;*/
+
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+
+  /*display: block;*/
+
   margin-left: 6vw;
   margin-right: 6vw;
   margin-bottom: 75px;
@@ -1272,6 +1276,17 @@ p {
   text-align: center;
 }
 
+.title_div2newB {
+  margin-top: 25px;
+  margin-bottom: 96px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  /*display: flex;
+  justify-content:space-between;*/
+  /*background-color: orange;*/
+  text-align: center;
+}
+
 .title_div2new {
   margin-top: 25px;
   margin-bottom: 6px;
@@ -1521,9 +1536,11 @@ color: rgba(255, 255, 255, 0.8);
 #sub_subtitle_4{
   padding-top: 0px;
   font-size: 2.618rem;
+  padding-bottom: 5%;
   /*color: #d5e82a;*/
   /*color: rgb(226, 136, 63);*/
   color: #A9A2F6;
+  line-height: 50%;
 }
 
 #sub_subemail{
@@ -2119,7 +2136,7 @@ background-color: orange;
       display: block;
       margin-left: 10vw;
       margin-right: 10vw;
-      margin-bottom: 75px;
+      margin-bottom: 65px;
       /*padding-left: 20vw;
       padding-right: 20vw;*/
     }
@@ -2163,6 +2180,7 @@ background-color: orange;
       /*flex: 1 0 50%;*/
       padding-left: 1px;
       padding-right: 1px;
+      padding-bottom: 50px;
       /*padding-right: 20%;*/
       /*width: 40%;*/
     
@@ -2356,6 +2374,17 @@ background-color: orange;
       /*background-color: orange;*/
       text-align: center;
     }
+
+    .title_div2newB {
+      margin-top: 25px;
+      margin-bottom: 46px;
+      margin-left: 10vw;
+      margin-right: 10vw;
+      /*display: flex;
+      justify-content:space-between;*/
+      /*background-color: orange;*/
+      text-align: center;
+    }
     
     .title_div2new {
       margin-top: 25px;
@@ -2435,6 +2464,7 @@ background-color: orange;
   /*color: #d5e82a;*/
   /*color: rgb(226, 136, 63);*/
   color: #A9A2F6;
+  line-height: 140%;
 }
 
   .tago {
@@ -2499,8 +2529,9 @@ background-color: orange;
     padding-bottom: 40px;
     font-size: 24px;
     transition: 0.01s;
-    box-shadow: 0 1px 0px rgba(255, 255, 255, 0.1) inset;
-    background-color: #161617;
+    /*box-shadow: 0 1px 0px rgba(255, 255, 255, 0.1) inset;*/
+    box-shadow: 0 -1px 0px #fefefe inset, 100vw 0 0 rgba(255, 255, 255, 0.03) inset;
+    background-color: #7a50dd;
   }
 
   .menut li a:hover {
@@ -2509,7 +2540,7 @@ background-color: orange;
     padding-top: 40px;
     padding-bottom: 40px;
     font-size: 24px;
-    background-color: #161617;
+    background-color: #5937a8;
     box-shadow: 0 -1px 0px #fefefe inset, 100vw 0 0 rgba(255, 255, 255, 0.03) inset;
   }
 
