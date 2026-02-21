@@ -18,6 +18,21 @@
     background-color: #161617;
 }*/
 
+.pdf-container {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 20vh;
+  /*padding-left: 5%;
+  padding-right: 5%;*/
+}
+
+.pdf-container iframe {
+  width: 100%;
+  height: 80vh; 
+  border: none;
+}
+
 .sticky {
   position: sticky;
   top: 0;
@@ -511,6 +526,16 @@ color: #fefefe;
 
 .linktext4 {
   color: rgb(169, 162, 246);
+  font-size: 1.618rem;
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 170%;
+  /*padding-bottom: 500px;*/
+}
+
+.linktext5 {
+  color: rgb(180, 174, 246);
   font-size: 1.618rem;
   font-family: "Lato", sans-serif;
   font-weight: 300;
