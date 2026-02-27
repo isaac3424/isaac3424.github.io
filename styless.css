@@ -65,7 +65,7 @@
   display: flex;
   justify-content: space-between;
   /*align-items: center;*/
-  align-items: center;
+  align-items: flex-start;
   margin-left: 6vw;
   margin-right: 6vw;
 }
@@ -208,7 +208,7 @@
 .tago {
   padding: 5px 15px;
   background-color: rgba(169, 162, 246, 0.15);
-  border: 3px solid rgba(169, 162, 246, 1);
+  border: 0px solid rgba(169, 162, 246, 1);
   color: rgba(169, 162, 246, 1);
   /*color: #373752;*/
   border-radius: 25px;
@@ -2084,7 +2084,7 @@ background-color: orange;
       margin-bottom: 5px;
       background-color: rgba(169, 162, 246, 0.15);
       /*background-color: rgba(169, 162, 246, 0.75);*/
-      border: 3px solid rgba(169, 162, 246, 1);
+      border: 0px solid rgba(169, 162, 246, 1);
       color: rgba(169, 162, 246, 1);
       /*color: #373752;*/
       border-radius: 25px;
@@ -2541,7 +2541,7 @@ background-color: orange;
   .tago {
     padding: 5px 15px;
     background-color: rgba(169, 162, 246, 0.15);
-    border: 3px solid rgba(169, 162, 246, 1);
+    border: 0px solid rgba(169, 162, 246, 1);
     color: rgba(169, 162, 246, 1);
     /*color: #373752;*/
     border-radius: 25px;
